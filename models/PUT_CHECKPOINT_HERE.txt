@@ -1,0 +1,1 @@
+Put plant_health_effnet_b0.pt (from training) in this folder.
